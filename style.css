@@ -1,16 +1,10 @@
-*   { 
-    box-sizing: border-box;
-}
-
-body {
-    font-family: Arial;
-    padding: 10px;
-    background: rgb(255, 255, 255);
-}
 .header{
     float: left;
 }
 .SignLn{
-    font-size: 25px;
+    font-size: 50px;
+    text-align: center;
+}
+.E-mail,.Password,.login{
     text-align: center;
 }
